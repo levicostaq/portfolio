@@ -8,6 +8,8 @@ Projetos com código aberto estão nos [meus repositórios](https://github.com/l
 
 📫 [LinkedIn](https://linkedin.com/in/levicostaq) · [Voltar ao perfil](https://github.com/levicostaq)
 
+📄 [Baixar portfólio em PDF](Portfolio-Levi-Costa.pdf)
+
 ---
 
 ## 🎯 Torre de Controle
