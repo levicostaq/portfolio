@@ -27,7 +27,7 @@ Ao trabalhar com organizações diferentes, percebi um problema recorrente: info
 | **APSV Advogados** | Escritório de advocacia | Gestão jurídica em kanban por área de atuação e metas financeiras |
 | **MC Bares e Eventos** | Setor de eventos | Receita mensal, eventos realizados, parceiros, desempenho comercial e NPS |
 
-**Resultado:** melhor análise do andamento da empresa e de cada diretoria, com indicadores acompanhados em tempo real pela gestão.
+**Resultado:** quatro implementações entregues, cada uma adaptada ao funcionamento e aos indicadores da organização atendida.
 
 ### Stack
 
