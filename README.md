@@ -62,7 +62,7 @@ Também desenvolvi um prontuário eletrônico estruturado em quatro etapas do fl
 
 `n8n` · `Evolution API` · `Supabase` · `IA generativa`
 
-> 🚧 Prints e diagrama do fluxo em breve.
+🔓 **Versão open source disponível:** publiquei uma versão genérica e anonimizada deste fluxo em [whatsapp-agendamento-bot](https://github.com/levicostaq/whatsapp-agendamento-bot), com a arquitetura documentada e o workflow pronto para importar no n8n.
 
 ---
 
