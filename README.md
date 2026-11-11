@@ -56,11 +56,11 @@ A clínica dependia das secretárias para responder manualmente cada dúvida e p
 
 Também desenvolvi um prontuário eletrônico estruturado em quatro etapas do fluxo cirúrgico: dados pessoais, pré-operatório, intraoperatório e pós-operatório.
 
-**Resultado:** a automação passou a realizar de 3 a 9 agendamentos por dia sem nenhuma intervenção manual, reduzindo o trabalho repetitivo e otimizando o tempo das secretárias do consultório.
+**Resultado:** a automação passou a realizar de 3 a 9 agendamentos por dia sem nenhuma intervenção manual, reduzindo o trabalho repetitivo e otimizando o tempo das secretárias do consultório. Cliente atendido desde 2024.
 
 ### Stack
 
-`n8n` · `Evolution API` · `Supabase` · `IA generativa`
+`n8n` · `Evolution API` · `OpenAI` · `Redis` · `Google Calendar`
 
 🔓 **Versão open source disponível:** publiquei uma versão genérica e anonimizada deste fluxo em [whatsapp-agendamento-bot](https://github.com/levicostaq/whatsapp-agendamento-bot), com a arquitetura documentada e o workflow pronto para importar no n8n.
 
@@ -76,7 +76,7 @@ Leads vindos do Facebook Ads esfriavam antes de receber a primeira resposta, e n
 - **Atendimento** — bot que faz o primeiro contato, conduz a conversa, auxilia no agendamento de reuniões e executa follow-up automático
 - **Gestão** — funil estruturado no Pipedrive, com etapas definidas e automações internas para organizar os leads e centralizar o histórico de atendimento
 
-**Resultado:** primeira resposta muito mais rápida, atendimento contínuo e organizado, e redução das chances de potenciais clientes serem esquecidos.
+**Resultado:** primeira resposta muito mais rápida, atendimento contínuo e organizado, e redução das chances de potenciais clientes serem esquecidos. Em operação desde dezembro de 2025.
 
 ### Stack
 
@@ -94,7 +94,7 @@ Desenvolvi o site institucional da empresa com catálogo dos automóveis dispon�
 
 ### Stack
 
-`Lovable` · `Banco de dados` · `Desenvolvimento web` · `Integração com WhatsApp`
+`Lovable` · `Supabase` · `Integração com WhatsApp`
 
 ---
 
@@ -102,7 +102,23 @@ Desenvolvi o site institucional da empresa com catálogo dos automóveis dispon�
 
 Cofundei a Autolink, uma iniciativa de automação comercial e qualificação de leads. Alguns dos projetos listados acima nasceram dela — é onde prospecto, converso com o cliente para entender o processo e entrego a solução do início ao fim.
 
-`Automação de processos` · `WhatsApp` · `CRM` · `Qualificação de leads`
+`n8n` · `WhatsApp` · `Pipedrive`
+
+---
+
+## 🌱 EcoCampus — marketplace de economia circular
+
+**Projeto full-stack desenvolvido para o processo seletivo do Laboratório VORTEX (UNIFOR)**
+
+Plataforma web que conecta estudantes que querem doar ou vender itens que não usam mais, como livros, jalecos e calculadoras, a quem está começando a faculdade e precisa desses materiais. A proposta é reduzir desperdício e o custo de entrada na vida acadêmica. Desenvolvi a API RESTful em FastAPI, com testes automatizados em pytest, e a interface em React, instalável como PWA.
+
+**Resultado:** primeiro projeto full-stack construído do zero ao deploy, com código aberto.
+
+🔗 [Ver no ar](https://marketplace-campus-unifor.vercel.app) · [Código](https://github.com/levicostaq/marketplace-campus-UNIFOR)
+
+### Stack
+
+`Python` · `FastAPI` · `pytest` · `React` · `Vite` · `PWA`
 
 ---
 
@@ -112,7 +128,7 @@ Cofundei a Autolink, uma iniciativa de automação comercial e qualificação de
 
 Plataforma para digitalizar o controle de empréstimo de projetores e chaves na UNIFOR. Em equipe de quatro, atuei na engenharia de requisitos e no protótipo: conduzimos entrevistas com professores, coordenação e responsáveis, estruturamos as regras de negócio e priorizamos funcionalidades com MoSCoW, produzindo casos de uso, diagramas de classes e de sequência e requisitos funcionais e não funcionais.
 
-`React` · `UML` · `Engenharia de requisitos` · `MoSCoW` · `NFC` · `QR Code`
+`React` · `UML` · `NFC` · `QR Code`
 
 ### Shuffle Six
 
